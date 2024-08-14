@@ -1,4 +1,4 @@
-# social Champ App
+# Social Champ App
 Project Overview:
 •	Current Web App: The app is fully functional and can be easily embedded using iFrame.
 •	Objective: Convert the web app into a standalone desktop application for both MacOS and Windows using Electron.js.
